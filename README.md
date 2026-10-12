@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and BillionMail is the entr
 
 ## Images
 
-[![BillionMail](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![BillionMail](images/preview.png)](https://github.com/Swift-Tech-Co/BillionMail)
 
 ## An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns
 
@@ -26,7 +26,6 @@ BillionMail is a **future open-source Mail server, Email marketing platform** de
 
 ![BillionMail Banner](https://www.billionmail.com/home.png?v1)
 
-
 **Billion emails. Any business. Guaranteed.**
 
 ### Step 1️⃣ Install BillionMail: 
@@ -35,19 +34,16 @@ BillionMail is a **future open-source Mail server, Email marketing platform** de
 cd /opt && git clone https://github.com/aaPanel/BillionMail && cd BillionMail && bash install.sh
 ```
 
-
 ### Step 2️⃣: Connect Your Domain
 - Add the sending domain
 - Verify DNS records
 - Auto-enable free SSL
-
 
 ### Step 3️⃣: Build Your Campaign
 
 - Write or paste your email
 - Choose list & tags
 - Set send time or send now
-
 
 <div align="center">
   <a href="https://www.youtube.com/embed/UHgxZa_9jGs?si=0-f1B5hDtcWImvQv" target="_blank">
@@ -58,14 +54,10 @@ cd /opt && git clone https://github.com/aaPanel/BillionMail && cd BillionMail &&
   </a>
 </div>
 
-
 ## Other installation methods
 
 ### One-click installation on aaPanel
 👉 https://www.aapanel.com/new/download.html  (Log in to ✅aaPanel --> 🐳Docker --> 1️⃣OneClick install)
-
-
-
 
 **Docker**
 ```shell
@@ -95,7 +87,6 @@ BillionMail Demo: [https://demo.billionmail.com/billionmail](https://demo.billio
 Username: `billionmail` 
 
 Password: `billionmail` 
-
 
 ## WebMail
 
@@ -139,7 +130,6 @@ If you encounter any issues or have feature requests, please [open an issue](htt
 cd /opt && git clone https://github.com/aaPanel/BillionMail && cd BillionMail && bash install.sh
 ```
 
-
 **Install with Docker:** (Please install Docker and docker-compose-plugin manually, and modify .env file)
 ```shell
 cd /opt && git clone https://github.com/aaPanel/BillionMail && cd BillionMail && cp env_init .env && docker compose up -d || docker-compose up -d
@@ -175,6 +165,14 @@ See the [LICENSE](LICENSE) file for more details.
 [github-release-shield]: https://img.shields.io/github/v/release/aaPanel/BillionMail
 [github-stars-shield]: https://img.shields.io/github/stars/aaPanel/BillionMail?color=%231890FF&style=flat-square   
 [license-shield]: https://img.shields.io/github/license/aaPanel/BillionMail
+
+## Sources
+
+Compiled and maintained from upstream [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
