@@ -1,7 +1,12 @@
-<div align="center">
-  <a name="readme-top"></a>
-  <h1><a href="https://www.billionmail.com/" target="_blank">BillionMail 📧</a></h1>
+# BillionMail
 
+## What This Is
+
+We keep a working index for product and engineering, and BillionMail is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
+
+## Images
+
+[![BillionMail](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## An Open-Source MailServer, NewsLetter, Email Marketing Solution for Smarter Campaigns
 
@@ -21,7 +26,7 @@ BillionMail is a **future open-source Mail server, Email marketing platform** de
 
 ![BillionMail Banner](https://www.billionmail.com/home.png?v1)
 
-# Just 3 steps to send a billion emails!
+
 **Billion emails. Any business. Guaranteed.**
 
 ### Step 1️⃣ Install BillionMail: 
@@ -171,3 +176,10 @@ See the [LICENSE](LICENSE) file for more details.
 [github-stars-shield]: https://img.shields.io/github/stars/aaPanel/BillionMail?color=%231890FF&style=flat-square   
 [license-shield]: https://img.shields.io/github/license/aaPanel/BillionMail
 
+## Sources
+
+Compiled and maintained from upstream [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
